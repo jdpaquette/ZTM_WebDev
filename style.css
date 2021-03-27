@@ -1,0 +1,12 @@
+html {
+    background-color: moccasin;
+}
+header {
+    text-align: center;
+}
+header a {
+    font-size: 30px;
+}
+.head_img {
+    border-radius: 50%;
+}
